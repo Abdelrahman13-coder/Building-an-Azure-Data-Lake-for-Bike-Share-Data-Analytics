@@ -4,6 +4,9 @@
 
 Divy is a bike sharing program in Chicago, Illinis USA that allows riders to purchase a pass at a kiosk or use a mobile application to unlock a bike at stations arount the city and use the bike for a specified amount of time. The bikes can be returned to the same station or to another station. The City of Chicago makes the anonymized bike trip data publicly available for project like this where we can analyze the data.
 
+![image](https://user-images.githubusercontent.com/58150666/235313136-794785c9-5f99-488a-81e6-0e6ac300612a.png)
+
+
 ### The **Goal** of this project is to develop a data lake solution using Azure Databrikcs using a lake house architecture.
 
 * `Design` a star schema based on the business outcomes listed below
@@ -23,5 +26,3 @@ Divy is a bike sharing program in Chicago, Illinis USA that allows riders to pur
 3. EXTRA CREDIT - Analyze how much money is spent per member
     * Based on how many rides the rider averages per month
     * Based on how many minutes the rider spends on a bike per month
-
-

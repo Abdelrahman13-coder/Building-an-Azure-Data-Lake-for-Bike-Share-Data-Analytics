@@ -34,3 +34,6 @@ Divy is a bike sharing program in Chicago, Illinis USA that allows riders to pur
 
 <img width="957" alt="image" src="https://github.com/Abdelrahman13-coder/Building-an-Azure-Data-Lake-for-Bike-Share-Data-Analytics/assets/58150666/ab29d6fa-9b47-4248-9498-be634f319839">
 
+
+<img width="960" alt="image" src="https://github.com/Abdelrahman13-coder/Building-an-Azure-Data-Lake-for-Bike-Share-Data-Analytics/assets/58150666/8dfe33d1-99fe-4f3c-9ac5-90f84e3c58de">
+
